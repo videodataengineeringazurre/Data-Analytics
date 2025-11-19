@@ -44,5 +44,5 @@ jobs:
         with:
           databricks-host: ${{ env.DATABRICKS_HOST }}
           databricks-token: ${{ env.DATABRICKS_TOKEN }}
-          local-path: /home/runner/work/DataAnalytics/DataAnalytics/
+          local-path: /home/runner/work/Data-Analytics/Data-Analytics/
           remote-path: /Workspace/Users/adb_adm_01@outlook.com
